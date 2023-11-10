@@ -1,3 +1,17 @@
+In this project, used Axios, JSON Server, useRef of React Hooks.
+
+-This is TodoList that keep your notes.
+
+-You can add your issue, also edit and delete.
+
+-Used JSON Server for keep the infos in Database.
+
+-Used Axios for call the data from database.
+
+![todolist](https://github.com/evliyademiray/To-do-list-app/assets/139562305/88fca41f-9e71-4846-9fcb-2f5203fa8e62)
+
+
+
 # Vite Projesi için adımlar
 
 -npm create vite >yeni bir klasör içine react oluşturur.
