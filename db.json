@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "title": "okul",
+      "status": "important",
+      "id": "2466f41c-0282-4fc4-9420-227f02b93393",
+      "isDone": false,
+      "date": "11/11/2023"
+    },
+    {
+      "title": "mail check",
+      "status": "job",
+      "id": "fd6ac2ad-bb68-4f87-b571-6e2bed0fb56d",
+      "isDone": false,
+      "date": "11/11/2023"
+    },
+    {
+      "title": "bahçe sula",
+      "status": "daily",
+      "id": "84109e4f-a3e9-4ce9-a737-c3ef46b546f3",
+      "isDone": false,
+      "date": "11/11/2023"
+    },
+    {
+      "title": "hastane",
+      "status": "important",
+      "id": "8d9a4fed-b0f4-4b43-9a5e-e100c3dbe393",
+      "isDone": false,
+      "date": "11/11/2023"
+    },
+    {
+      "title": "postane",
+      "status": "daily",
+      "id": "90ac919a-2866-48fb-98d0-78757a7260e5",
+      "isDone": false,
+      "date": "11/11/2023"
+    },
+    {
+      "title": "sınavlar",
+      "status": "important",
+      "id": "464c9507-3b27-4b15-9f9f-439b7fb19518",
+      "isDone": false,
+      "date": "11/11/2023"
+    }
+  ]
+}
